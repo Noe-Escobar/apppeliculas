@@ -1,0 +1,4 @@
+enum Rutas {
+  loginpage,
+  Pelis,
+}
